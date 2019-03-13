@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8e6292b2c06870d4495f009f912b9600, type: 3}
-  m_Name: PostProcessProfile
+  m_Name: PostProcessProfile_2
   m_EditorClassIdentifier: 
   settings:
   - {fileID: 114375464177707528}
@@ -34,7 +34,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 55.06
+    value: 6.77
   threshold:
     overrideState: 1
     value: 1
@@ -115,8 +115,8 @@ MonoBehaviour:
     overrideState: 0
     value: 1
   temperature:
-    overrideState: 1
-    value: -20
+    overrideState: 0
+    value: 0
   tint:
     overrideState: 0
     value: 0
