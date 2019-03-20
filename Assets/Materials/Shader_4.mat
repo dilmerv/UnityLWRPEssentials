@@ -56,14 +56,14 @@ Material:
     - _Glossiness: 0.5
     - _GlossyReflections: 1
     - _Metallic: 0
-    - _NoiseScale: 10
+    - _NoiseScale: 7.7135415
     - _OcclusionStrength: 1
     - _ReceiveShadows: 1
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _Surface: 0
-    - _TimeSpeed: 0.7
+    - _TimeSpeed: 0.15338542
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
