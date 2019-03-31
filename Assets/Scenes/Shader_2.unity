@@ -144,7 +144,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff15176c51fb24e6180756414256006e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotateSpeed: {x: -40, y: 60, z: -70}
+  rotateSpeed: {x: 0, y: 0, z: 0}
 --- !u!135 &249995839
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -211,7 +211,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 249995837}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.69, y: -0.256, z: -2.08}
+  m_LocalPosition: {x: -1.21, y: -0.38, z: -1.76}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_Children: []
   m_Father: {fileID: 0}
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff15176c51fb24e6180756414256006e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotateSpeed: {x: -40, y: 60, z: -70}
+  rotateSpeed: {x: 0, y: 0, z: 0}
 --- !u!135 &344964077
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -493,7 +493,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff15176c51fb24e6180756414256006e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotateSpeed: {x: -40, y: 60, z: -70}
+  rotateSpeed: {x: 0, y: 10, z: 0}
 --- !u!135 &800939402
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -560,8 +560,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 800939400}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.37, y: 0.22, z: 2.71}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
+  m_LocalPosition: {x: 1.23, y: 0.08, z: 2.71}
+  m_LocalScale: {x: 0.45, y: 0.45, z: 0.45}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 4
@@ -684,7 +684,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1687258581}
   m_LocalRotation: {x: -0.2145143, y: -0.16263352, z: 0.036249246, w: -0.96240324}
-  m_LocalPosition: {x: -0.8, y: 1.39, z: -3.0633478}
+  m_LocalPosition: {x: -1.19, y: 1.39, z: -3.01}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}

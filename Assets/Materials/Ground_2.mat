@@ -51,9 +51,9 @@ Material:
     - _Cutoff: 0.5
     - _DstBlend: 0
     - _GlossMapScale: 1
-    - _Glossiness: 0.5
+    - _Glossiness: 0.162
     - _GlossyReflections: 1
-    - _Metallic: 0
+    - _Metallic: 0.295
     - _OcclusionStrength: 1
     - _ReceiveShadows: 1
     - _SmoothnessTextureChannel: 0
@@ -63,6 +63,6 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.01886791, g: 0.01886791, b: 0.01886791, a: 1}
+    - _Color: {r: 0.16981131, g: 0.16981131, b: 0.16981131, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
